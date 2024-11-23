@@ -10,7 +10,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=resslr&theme=vue-dark&hide_border=false)<br/>
 
 ### ✍️ Random Dev Quote
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=vue-dark&animation=default&layout=default&font=default&quoteType=random)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ressulr&icon=2&color=12)](https://visitcount.itsvg.in)
